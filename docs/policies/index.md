@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policies - Introduction
-permalink: /policies/
+permalink: /policies
 ---
 
 Welcome to AspirePress' policies documentation. This documentation outlines the governance process for AspirePress and
