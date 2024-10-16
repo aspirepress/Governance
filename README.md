@@ -1,2 +1,4 @@
 # Governance
-A repository for governing documents of AspirePress
+
+Governance documentation for AspirePress. You can view this documentation at 
+[AspirePress Governance](https://governance.aspirepress.org).

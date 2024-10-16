@@ -1,0 +1,4 @@
+title: "Flysystem"
+tagline: "Many filesystems, one API."
+description: "Filesystem abstraction library for PHP."
+version_v1: 1.1
