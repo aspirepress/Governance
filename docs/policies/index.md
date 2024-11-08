@@ -39,7 +39,7 @@ The following governs how a policy is written and published as a policy in Aspir
    make comments on the proposed change. If the change is an emergency change this time period may be limited to 5 days.
 3. The Executive Board of AspirePress will meet to discuss the policy. They may take action on the policy in one of four
    ways: they may reject the policy, they may approve the policy, they may request changes to the policy, and they may
-   request a vote of the entire membership on the policy. This vote may be binding or non-binding at teh discretion of
+   request a vote of the entire membership on the policy. This vote may be binding or non-binding at the discretion of
    the Executive Committee.
 4. Upon acceptance of a policy, the policy is merged into `main` as Ratified and becomes official policy of AspirePress.
 
