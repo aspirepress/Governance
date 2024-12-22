@@ -6,7 +6,7 @@ permalink: /guidelines/
 
 The AspirePress guidelines are just that - guidelines.
 
-They are not rules, they are not policies, they are not enforcable and they are not set in stone.
+They are not rules, they are not policies, they are not enforceable and they are not set in stone.
 
 They are intended to guide our implementation of the project in the best way possible through general consensus, but
 they do not provide a set of hard-and-fast rules that inform every decision we have to make. Some situations won't be

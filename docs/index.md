@@ -23,14 +23,14 @@ This site contains three sections:
    followed* as a matter of course. Breaking these policies can be grounds for discipline or removal from the project.
 
 **In general** our goal is to have more guidelines and core principles than actual policies. A policy exists where no
-alternative was available. We implement polciies to resolve conflicts or issues that cannot be resolved through less
+alternative was available. We implement policies to resolve conflicts or issues that cannot be resolved through less
 restrictive means. Policies carry the force of official rules in this project, while guidelines and core principles are
-signposts tha guide our behavior and decision-making without fully constricting it.
+signposts that guide our behavior and decision-making without fully constricting it.
 
 ## Code of Conduct
 
 AspirePress also implements a [Code of Conduct](https://github.com/aspirepress/.github/blob/main/CODE_OF_CONDUCT.md),
-adherance to which is required by all members of the project.
+adherence to which is required by all members of the project.
 
 ## Credits
 
