@@ -1,9 +1,5 @@
-# accept.txt - words considered acceptable spellings
+# reject.txt - words always considered to be spelling errors
 #
 # lines beginning with '#' are ignored.
 # each line is one word or regex, and is case-sensitive.
 # prefix with (?i) to make case-insensitive.
-
-AspirePress
-ClassicPress
-WordPress
