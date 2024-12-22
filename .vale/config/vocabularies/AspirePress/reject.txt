@@ -1,0 +1,5 @@
+# reject.txt - words always considered to be spelling errors
+#
+# lines beginning with '#' are ignored.
+# each line is one word or regex, and is case-sensitive.
+# prefix with (?i) to make case-insensitive.

@@ -1,0 +1,25 @@
+name: Spellcheck
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+jobs:
+  vale:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Spellcheck
+        uses: errata-ai/vale-action@v2.1.1
+        with:
+          version: latest
+          files: all
+          debug: false
+          reporter: github-check # https://github.com/reviewdog/reviewdog#reporters
+          fail_on_error: true
+          level: error
+          filter_mode: added
